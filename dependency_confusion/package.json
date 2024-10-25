@@ -1,0 +1,5 @@
+{
+  "name": "@VULNERABLE_DEPENDENCY",
+  "version": "1.0.0",
+  "main": "PATH/index.js"
+}
